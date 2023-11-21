@@ -63,4 +63,4 @@ jobs:
           app-name: 'CPT-Chatbotmain'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_17A46ED2BE1D4859B5D6D00CB686A9A3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F75BEE685F354EFDB1A0CFC2E5AF667F }}
