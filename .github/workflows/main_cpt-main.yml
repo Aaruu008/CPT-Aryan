@@ -63,4 +63,4 @@ jobs:
           app-name: 'cpt-main'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_49CC354FFCE240F6A9F7F49791BBDE5F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_44002C10F0B94D169C84F2DF14861F83 }}
